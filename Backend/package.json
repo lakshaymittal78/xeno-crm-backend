@@ -11,9 +11,11 @@
     "axios": "^1.5.0",
     "body-parser": "^1.20.2",
     "cors": "^2.8.5",
-    "dotenv": "^16.1.4",
-    "express": "^4.18.2",
-    "mongoose": "^7.5.0"
+    "dotenv": "^16.6.1",
+    "express": "^4.21.2",
+    "helmet": "^8.1.0",
+    "mongoose": "^7.8.7",
+    "morgan": "^1.10.1"
   },
   "devDependencies": {
     "nodemon": "^3.0.1"
